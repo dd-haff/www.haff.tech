@@ -1,49 +1,42 @@
 ---
 title: "About"
 type: "homepage"
-featured_image: "/images/felipe-cordero-profile.jpeg"
+featured_image: "/images/denardo-profile.jpeg"
 intro: >-
-  **Technical product engineer in AI**—turning security, compliance, and product goals into shipped software for LLM agents. I started in **structural engineering** in Chile, moved into **software and automation** in construction and BIM, then into **AI/ML and LLM-based products**. Today I'm a **full-stack AI product engineer** at <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, focused on AI agent security and compliance: scoping with product and customers, designing policies and guardrails, and shipping APIs and UIs teams rely on—not a generic backend role. I've led complex, cross-disciplinary work from R&D through delivery, including the **Academic Excellence Scholarship** (Air Canada, Collège LaSalle Montréal, 2025) for AI/ML studies.
+  Hi! I'm Drew DeNardo, a technology leader with decades of successes at startups and large enterprises, including several with annual revenues in the billions of US$.
+  I have a track record of building and running high-performing teams spanning engineering, QA, DevOps, and Agile & Lean processes in a wide range of industries including Medical Devices,
+  FinTech, Telecomm infrastructure, MVNOs, Social Media, and AdTech.  I am passionate about mentoring people at the manager and director levels, helping to build
+  leaders who support the humans who deliver value for our businesses and delight our customers.  I'm equally comfortable in the C-Suite, an IDE, and the data center.<br><br>
+  "What's HAFF?" I founded HAFF Technologies, LLC to support the consulting work I started in 2025.
 
 study: >-
-  Based in **Montréal**, I continue to deepen **AI and machine learning** at **Collège LaSalle** (Python, PyTorch, predictive modeling), complementing my day-to-day work on **LLM agents, guardrails, and product delivery** at Fireraven.
+  I earned my first leadership opportunity in 1995, and since then I've grown in scope and responsibility at nearly every place I've been.  I'm proud of the
+  fact that along the way I've helped turn around people and teams who were struggling as well as having enabled wide and deep growth of the people on my teams.
 
-passion_title: "What I focus on"
+passion_title: "What I'm passionate about"
 passion_text: >-
-  I work as a **product-engineer** where I bridge **product vision** with **AI systems engineering**. I design and implement **AI-focused features** that balance security, compliance, and user experience—helping organizations adopt **LLM agents** in a way that is **secure, auditable, and aligned with business goals**. At <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, that means collaborating with product, security, and customers on guardrails, policies, and runtime controls, and building with **Python (FastAPI)**, **Next.js/TypeScript**, and **PostgreSQL** in agile, distributed teams. Previously at <a href="https://obralink.com" target="_blank" rel="noopener noreferrer"><strong>ObraLink</strong></a>, I led **autonomous structural analysis** and **ML** for concrete estimation—translating engineering needs into shipped product.
+  I'm passionate about building teams that are constantly improving to stay ahead of what our company needs.  On the technology side, I've spent my career honing
+  my skills in enterprise architecture, native mobile development on Android & iOS, tcp/ip networking, databases, and banging out code in Java, C/C++, Python, and others.
 
 mix: >-
-  My path from **structural engineering** to **AI product engineering** means I connect **disciplined systems thinking** with **software delivery**: from physical structures and BIM to **policy-driven AI** and enterprise tooling. I focus on **practical outcomes**—clear requirements, measurable impact, and reliable systems.
+  We all know leaders whose strength is organizational dynamics and dealing with people.  Others understand strategy, business, and financial matters.  Some are deeply-technical
+  and earn the respect of the architects and developers they work with.  I have a track record of strong performance in each of these dimensions while being an excellent partner
+  with my colleagues in product, marketing, finance, and operations. 
 
 personal: >-
-  Outside work, I enjoy **tennis**, **cooking**, **drums**, **swimming**, and **photography**. I **volunteer at LaSalle College**, helping new students settle in and supporting the academic community.
+  Outside work, I'm a husband and father, and am engaged supporting my community through multiple volunteer opportunities.
 
 quickfacts:
   - icon: "briefcase"
     title: "Current Role"
-    value: "Full-Stack AI Product Engineer at <a href=\"https://fireraven.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Fireraven</strong></a>"
+    value: "Chief Technology Officer (CTO) / VP Engineering at <a href=\"https://www.jogohealth.com\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Jogo Health</strong></a>"
   - icon: "graduation-cap"
     title: "Education"
-    value: "🏗️ <a href=\"https://uchile.cl/\" target=\"_blank\" rel=\"noopener noreferrer\">University of Chile</a>, **Bachelor's Degree in Civil Engineering**<br>🤖 <a href=\"https://lasallecollege.lcieducation.com/en\" target=\"_blank\" rel=\"noopener noreferrer\">Collège LaSalle Montréal</a>, **AEC: Artificial Intelligence and Machine Learning**"
-  - icon: "award"
-    title: "Recent Achievement"
-    value: "🏆 Recipient of the <a href=\"/blog/academic-excellence-recognition/\" target=\"_blank\" rel=\"noopener\">Academic Excellence Scholarship</a> 🎓 sponsored by ✈️ Air Canada at Collège LaSalle Montréal (2025) 🎉"
+    value: "<a href=\"https://lasalle.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">LaSalle University</a>, **Bachelor of Science Degree in Computer Science** (1993)"
   - icon: "language"
     title: "Languages"
-    value: |
-      - 🇬🇧 English (IELTS C1)
-      - 🇨🇱 Spanish (Native)
-      - 🇫🇷 French (TCF B2)
+    value: "🇺🇸 **English** (Native)"
   - icon: "heart"
     title: "Interests"
-    value: |
-      - ♟️ Chess
-      - 🎾 Tennis
-      - 🚴 Cycling
-      - 🏊‍♂️ Swimming
-      - 👨‍🍳 Cooking
-      - 🥁 Drumming
-      - 📸 Photography
-      - ✈️ Traveling
-      - 📚 Reading
+    value: "🎹 **Piano**, 🎤 **Singing**, 📸 **Photography**, 📚 **Reading**, 🎥 Film"
 ---

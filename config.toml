@@ -1,7 +1,7 @@
 # Hugo Site Configuration
-baseURL = "https://felipecordero.com"
+baseURL = "https://www.haff.tech"
 languageCode = "en-us"
-title = "Felipe Cordero"
+title = "Drew DeNardo"
 theme = "careercanvas"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
@@ -12,91 +12,58 @@ defaultContentLanguageInSubdir = false
     languageName = "English"
     weight = 1
     [languages.en.params]
-      tagline = "Full-stack AI product engineer at Fireraven. Guardrails, compliance, and secure LLM agents."
-      hero_description = "Full-stack AI product engineer at Fireraven, where we help enterprises deploy LLM agents with security, auditing, and policy-driven controls—from no-code guardrails to runtime enforcement and red-teaming. I bridge product priorities with AI systems engineering so customers can adopt agents safely and at scale."
-      hero_location = "Montréal, Canada"
-      resume_url = "/files/Felipe_Cordero_CV_ENG.pdf"
+      tagline = "Deeply technical. People-first."
+      hero_description = "Strategic technology leader with more than twelve years of executive leadership. I have decades of managerial experience building exceptionally high-performing teams and products for startups and Fortune 50 companies. I am a people-first leader who is also deeply technical and hands-on."
+      hero_location = "Philadelphia, PA"
+      resume_url = "/files/Drew-DeNardo-resume.pdf"
       collab_tags = [
-        "AI agent security & compliance",
-        "Guardrails & policy design",
-        "Full-stack AI (Python / Next.js)",
-        "Product-engineering & requirements",
-        "Enterprise AI adoption"
-      ]
-  [languages.es]
-    contentDir = "content/es"
-    languageName = "Español"
-    weight = 2
-    [languages.es.params]
-      tagline = "Ingeniero de producto IA full stack en Fireraven. Guardrails, cumplimiento y agentes LLM seguros."
-      hero_description = "Ingeniero de producto IA full stack en Fireraven: ayudamos a las empresas a desplegar agentes LLM con seguridad, auditoría y controles basados en políticas—desde guardrails sin código hasta enforcement en tiempo de ejecución y red teaming. Conecto prioridades de producto con ingeniería de sistemas de IA para una adopción segura y a escala."
-      hero_location = "Montreal, Canadá"
-      resume_url = "/files/Felipe_Cordero_CV_ENG.pdf"
-      collab_tags = [
-        "Seguridad y cumplimiento de agentes IA",
-        "Guardrails y diseño de políticas",
-        "IA full stack (Python / Next.js)",
-        "Ingeniería de producto y requisitos",
-        "Adopción de IA empresarial"
-      ]
-  [languages.fr]
-    contentDir = "content/fr"
-    languageName = "Français"
-    weight = 3
-    [languages.fr.params]
-      tagline = "Ingénieur produit IA full stack chez Fireraven. Guardrails, conformité et agents LLM sécurisés."
-      hero_description = "Ingénieur produit IA full stack chez Fireraven : nous aidons les entreprises à déployer des agents LLM avec sécurité, audit et contrôles pilotés par les politiques—des guardrails no-code à l'exécution en runtime et au red teaming. Je relie les priorités produit à l'ingénierie des systèmes IA pour une adoption sûre et à l'échelle."
-      hero_location = "Montréal, Canada"
-      resume_url = "/files/Felipe_Cordero_CV_FRE.pdf"
-      collab_tags = [
-        "Sécurité et conformité des agents IA",
-        "Guardrails et conception de politiques",
-        "IA full stack (Python / Next.js)",
-        "Ingénierie produit et exigences",
-        "Adoption de l'IA en entreprise"
+        "Individual, Team, & Enterprise AI adoption",
+        "Organizational Leadership",
+        "Developing Leaders",
+        "Technology Transformations",
+        "Delivering Extraordinary Business Value"
       ]
 
 [build]
   writeStats = true
 
 [params]
-name = "Felipe Cordero"
-firstName = "Felipe"
-lastName = "Cordero"
-email = "mail@felipecordero.com"
-profile_image = "/images/felipe-cordero-profile.jpg"
-author = "Felipe Cordero"
+name = "Drew DeNardo"
+firstName = "Drew"
+lastName = "DeNardo"
+email = "ddenardo@haff.tech"
+profile_image = "/images/headshot.jpeg"
+author = "Drew DeNardo"
 
-og_image = "images/felipecordero-og.png"
+og_image = "images/headshot.jpeg"
 
-description = "Full-stack AI product engineer at Fireraven. Building guardrails, security, and compliance tooling for LLM agents—bridging product vision with AI systems engineering."
+description = "Strategic technology leader with decades of experience building high-performing teams at startups and Fortune 50 companies."
 
-linkedin_url = "https://www.linkedin.com/in/felipe-cordero-osorio"
-linkedin_text = "linkedin.com/in/felipe-cordero-osorio"
-github_url = "https://github.com/felipecordero"
-github_text = "github.com/felipecordero"
+linkedin_url = "https://www.linkedin.com/in/drewdenardo/"
+linkedin_text = "linkedin.com/in/drewdenardo"
+github_url = "https://github.com/dd-haff"
+github_text = "github.com/dd-haff"
 
-calendly_url = "https://calendly.com/correofelipecordero/30min"
+calendly_url = "https://calendar.app.google/qyUwsJaivc3CEKxF7"
 calendly_height = "700px"
 
-copyright = "Felipe Cordero"
+copyright = "Drew DeNardo"
 
 
-resume_url_en = "/files/Felipe_Cordero_CV_ENG.pdf"
-resume_url_fr = "/files/Felipe_Cordero_CV_FRE.pdf"
-resume_label = "View CV"
+resume_url_en = "/files/Drew-DeNardo-resume.pdf"
+resume_label = "View Resume"
 
 # Form and Pexels: set in config or config.local.toml. CI: HUGO_PARAMS_FORMSPREEENDPOINT, HUGO_PARAMS_PEXELSAPIKEY (no underscores)
-formspreeendpoint = ""
-pexelsapikey = ""
+formspreeendpoint = "https://formspree.io/f/xanbvqle"
+pexelsapikey = "JSREPwqKtHQMKLKokmwlKcs0io6VTKYF3Iu6txIoGcZuf4GgmGofYv3B"
 
 [[params.social]]
 icon = "linkedin-in"
-url = "https://www.linkedin.com/in/felipe-cordero-osorio/"
+url = "https://www.linkedin.com/in/drewdenardo/"
 
 [[params.social]]
 icon = "github"
-url = "https://github.com/felipecordero"
+url = "https://github.com/dd-haff"
 
 sectionPagesMenu = 'main'
 

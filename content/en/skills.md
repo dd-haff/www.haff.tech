@@ -2,41 +2,38 @@
 title: "Skills"
 type: "homepage"
 intro: >-
-  Product-engineering for AI agents: LLM security and compliance design, full-stack delivery, and clear collaboration across product, security, and customers.
+  Combining decades of hands-on technology experience with deep expertise in organizational development and a no-nonsense human-first approach.
 
 domains:
-  - icon: "brain"
-    title: "AI & Product Engineering"
-    description: "LLM agents, prompt and policy design, guardrails, runtime enforcement, red-teaming mindset, AI security, compliance-oriented product design, and scoping with PMs and customers."
-    devicon_class: "devicon-tensorflow-original colored"
-
   - icon: "code"
-    title: "Full-Stack AI Engineering"
-    description: "Python, FastAPI, Next.js/TypeScript, agents and RAG patterns, PostgreSQL and Supabase, testing, observability, GCP and modern deployment—an integrated toolkit for shipping reliable features."
-    devicon_class: "devicon-python-plain colored"
+    title: "Software Development"
+    description: "Demonstrated success leading many teams building web & mobile applications as well as scalable and resilient back-end services"
 
-  - icon: "lock"
-    title: "Product & Security Thinking"
-    description: "Requirements discovery, risk framing, security controls, auditability, and working with regulatory and compliance constraints—turning them into prioritized roadmaps and shipped features."
-    devicon_class: "devicon-react-original colored"
-
-  - icon: "tools"
-    title: "Structural Engineering & AEC"
-    description: "Deep background in structural design, BIM, and construction technology—grounding product decisions in how complex physical and organizational systems actually behave."
-    devicon_class: "devicon-docker-plain colored"
-
-  - icon: "users"
-    title: "Collaboration & Leadership"
-    description: "Agile delivery with global distributed teams; leading R&D and cross-functional work from discovery through release."
-    devicon_class: "devicon-github-original colored"
-
-  - icon: "globe"
-    title: "Languages & International Experience"
-    description: "Native Spanish; English (IELTS C1) and French (TCF B2) for international product and customer contexts."
-    devicon_class: "devicon-html5-plain colored"
+  - icon: "chart-line"
+    title: "Continuous Improvement"
+    description: "My teams consistently get better at delivery, quality, predictability, and incorporating leading-edge technologies quarter-over-quarter"
 
   - icon: "hands-helping"
-    title: "Community & Learning"
-    description: "Volunteer work and continuous learning, including the Academic Excellence Scholarship at Collège LaSalle Montréal."
-    devicon_class: "devicon-javascript-plain colored"
+    title: "Mentoring"
+    description: "Each teammate deserves the opportunity to better themselves and grow, which is a clear win-win for the employee and the company"
+
+  - icon: "brain"
+    title: "Artificial Intelligence"
+    description: "Developing experience in LLM-based solutions and ML models for engineering applications and process improvement"
+
+  - icon: "tools"
+    title: "Process Expertise"
+    description: "I've established or led the process-focused professionals on many teams spanning core development processes (e.g. code reviews, automated testing) and Agile & Lean (including Scrum, SAFe, and Kanban)"
+
+  - icon: "users"
+    title: "Leading People"
+    description: "Dozens of employees and colleagues have [shared feedback on LinkedIn](https://www.linkedin.com/in/drewdenardo/details/recommendations/) about how I was as a boss & teammate"
+
+  - icon: "lightbulb"
+    title: "Technology Strategy"
+    description: "Developing innovative strategies to ensure that our technology teams are key agents who enable desired business outcomes"
+
+  - icon: "globe"
+    title: "Distributed Teams"
+    description: "Established and managed teams spanning 3 continents, ensuring alignment, good communication, and effective collaboration"
 ---
