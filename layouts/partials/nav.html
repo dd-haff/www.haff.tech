@@ -41,10 +41,9 @@
             <i class="fab fa-github text-xl"></i>
           </a>
           {{ end }}
-          {{ $calendlyIcon := resources.Get "images/calendly-icon.svg" }}
-          {{ if and .Site.Params.calendly_url $calendlyIcon }}
-          <a href="{{ .Site.Params.calendly_url }}" target="_blank" rel="noopener noreferrer" class="text-text-primary dark:text-text-primary transition-transform duration-300 hover:scale-125" aria-label="Book a meeting on Calendly">
-            <img src="{{ $calendlyIcon.RelPermalink }}" alt="" class="w-6 h-6" width="24" height="24">
+          {{ if .Site.Params.calendly_url }}
+          <a href="{{ .Site.Params.calendly_url }}" target="_blank" rel="noopener noreferrer" class="text-text-primary dark:text-text-primary transition-transform duration-300 hover:scale-125" aria-label="Book a meeting on my calendar">
+            <i class="fas fa-calendar-check text-xl"></i>
           </a>
           {{ end }}
         </div>
@@ -99,10 +98,9 @@
           <i class="fab fa-github text-2xl"></i>
         </a>
         {{ end }}
-        {{ $calendlyIcon := resources.Get "images/calendly-icon.svg" }}
-        {{ if and .Site.Params.calendly_url $calendlyIcon }}
-        <a href="{{ .Site.Params.calendly_url }}" target="_blank" rel="noopener noreferrer" class="text-text-primary dark:text-text-primary transition-transform duration-300 hover:scale-125" aria-label="Book a meeting on Calendly">
-          <img src="{{ $calendlyIcon.RelPermalink }}" alt="" class="w-7 h-7" width="28" height="28">
+        {{ if .Site.Params.calendly_url }}
+        <a href="{{ .Site.Params.calendly_url }}" target="_blank" rel="noopener noreferrer" class="text-text-primary dark:text-text-primary transition-transform duration-300 hover:scale-125" aria-label="Book a meeting on my calendar">
+          <i class="fas fa-calendar-check text-2xl"></i>
         </a>
         {{ end }}
       </div>
