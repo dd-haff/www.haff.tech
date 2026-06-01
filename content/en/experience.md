@@ -9,6 +9,30 @@ resume_downloads:
     label: English
 
 positions:
+  - company: "insightsoftware.com"
+    company_url: "https://www.insightsoftware.com/"
+    role: "VP, Enterprise Architecture"
+    industry: "Financial Software"
+    location: "Raleigh, NC (Remote)"
+    company_description: "Connected Solutions for the Office of the CFO"
+    roles:
+      - title: "VP, Enterprise Architecture"
+        period: "March 2026 - Present"
+        bullet_points:
+           - "Thing 1"
+           - "Thing 2"
+           - "Thing 3"
+      - title: "Consultant"
+        period: "October 2025 - March 2026"
+        bullet_points:
+           - "Thing 4"
+           - "Thing 5"
+           - "Thing 6"
+    bullet_points:
+      - "Setting the company's long-term technology strategy and roadmap"
+      - "Running the onshore & offshore teams that build our mobile apps and B2B SaaS platform"
+      - "Stewarding Product Management at the company"
+      - "Establishing and maintaining the company's IT infrastructure"
   - company: "Jogo Health, Inc."
     company_url: "https://www.jogohealth.com/"
     role: "Fractional CTO / VP of Engineering"
@@ -24,7 +48,7 @@ positions:
   - company: "*Confidential Client*"
     company_url: "https://www.merriam-webster.com/dictionary/secret"
     role: "Consultant"
-    period: "April 2025 - Present"
+    period: "April 2025 - October 2025"
     industry: "Artificial Intelligence"
     location: "New York, NY (Remote)"
     company_description: "My client is developing an AI Coding Agent platform that solves security maintenance."
