@@ -60,8 +60,8 @@
 
           <!-- Period badge - mobile (shows first/only period) -->
           <div class="md:hidden px-4 text-center mb-4">
-            <div class="inline-block bg-gradient-primary text-white px-4 py-2 rounded-full text-sm font-medium shadow-lg">
-              <i class="fas fa-calendar-alt mr-2"></i>{{ $mobilePeriod }}
+            <div class="inline-block bg-gradient-primary text-white px-4 py-2 rounded-full font-medium shadow-lg">
+              <span class="text-lg font-semibold"><i class="fas fa-calendar-alt mr-2"></i>{{ $mobilePeriod }}</span>
             </div>
           </div>
 
@@ -146,15 +146,15 @@
                 {{ range $exp.roles }}
                 <div>
                   <!-- Period badge with role title - desktop -->
-                  <div class="hidden md:block bg-gradient-primary text-white px-4 py-2 rounded-xl text-sm font-medium mb-3 shadow-lg w-fit">
-                    <div><i class="fas fa-calendar-alt mr-2"></i>{{ .period }}</div>
-                    {{ if .title }}<div class="text-xs italic opacity-80 mt-0.5 ml-5">{{ .title }}</div>{{ end }}
+                  <div class="hidden md:block bg-gradient-primary text-white px-4 py-2 rounded-xl font-medium mb-3 shadow-lg w-fit">
+                    <div class="text-lg font-semibold"><i class="fas fa-calendar-alt mr-2"></i>{{ .period }}</div>
+                    {{ if .title }}<div class="text-base italic opacity-80 mt-0.5 ml-5">{{ .title }}</div>{{ end }}
                   </div>
                   <!-- Period badge with role title - mobile -->
                   <div class="md:hidden text-center mb-3">
-                    <div class="inline-block bg-gradient-primary text-white px-4 py-2 rounded-xl text-sm font-medium shadow-lg">
-                      <div><i class="fas fa-calendar-alt mr-2"></i>{{ .period }}</div>
-                      {{ if .title }}<div class="text-xs italic opacity-80 mt-0.5 ml-5">{{ .title }}</div>{{ end }}
+                    <div class="inline-block bg-gradient-primary text-white px-4 py-2 rounded-xl font-medium shadow-lg">
+                      <div class="text-lg font-semibold"><i class="fas fa-calendar-alt mr-2"></i>{{ .period }}</div>
+                      {{ if .title }}<div class="text-base italic opacity-80 mt-0.5 ml-5">{{ .title }}</div>{{ end }}
                     </div>
                   </div>
                   <div class="achievements-card bg-gradient-to-br from-bg-secondary to-bg-tertiary dark:from-bg-secondary dark:to-bg-tertiary p-6 rounded-lg shadow-lg border border-border-primary dark:border-border-primary card-hover">
@@ -176,8 +176,8 @@
                 </div>{{/* end space-y-4 */}}
               {{ else }}
                 {{/* Single role: existing behavior */}}
-                <div class="hidden md:block bg-gradient-primary text-white px-4 py-2 rounded-full text-sm font-medium mb-3 shadow-lg w-fit">
-                  <i class="fas fa-calendar-alt mr-2"></i>{{ $exp.period }}
+                <div class="hidden md:block bg-gradient-primary text-white px-4 py-2 rounded-full font-medium mb-3 shadow-lg w-fit">
+                  <span class="text-lg font-semibold"><i class="fas fa-calendar-alt mr-2"></i>{{ $exp.period }}</span>
                 </div>
                 <div class="achievements-card bg-gradient-to-br from-bg-secondary to-bg-tertiary dark:from-bg-secondary dark:to-bg-tertiary p-6 rounded-lg shadow-lg border border-border-primary dark:border-border-primary card-hover">
                   <div class="flex items-center mb-4">

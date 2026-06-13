@@ -17,6 +17,7 @@ passion_title: "What I'm passionate about"
 passion_text: >-
   I'm passionate about building teams that are constantly improving to stay ahead of what our company needs.  On the technology side, I've spent my career honing
   my skills in enterprise architecture, native mobile development on Android & iOS, tcp/ip networking, databases, and banging out code in Java, C/C++, Python, and others.
+  Recently, I've been building AI tooling and coaching individuals, teams, and organizations to adopt an agentic-AI-first mindset — helping them fundamentally change how they build, deliver, and operate.
 
 mix: >-
   We all know leaders whose strength is organizational dynamics and dealing with people.  Others understand strategy, business, and financial matters.  Some are deeply-technical
@@ -29,13 +30,13 @@ personal: >-
 quickfacts:
   - icon: "briefcase"
     title: "Current Role"
-    value: "Chief Technology Officer (CTO) / VP Engineering at <a href=\"https://www.jogohealth.com\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Jogo Health</strong></a>"
+    value: "VP, Enterprise Architecture at <a href=\"https://www.insightsoftware.com/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>insightsoftware.com</strong></a><br>Fractional CTO at <a href=\"https://www.jogohealth.com\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Jogo Health</strong></a>"
   - icon: "graduation-cap"
     title: "Education"
     value: "<a href=\"https://lasalle.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">LaSalle University</a>, **Bachelor of Science Degree in Computer Science** (1993)"
   - icon: "language"
     title: "Languages"
-    value: "🇺🇸 **English** (Native)"
+    value: "**English** (Native)"
   - icon: "heart"
     title: "Interests"
     value: "🎹 **Piano**, 🎤 **Singing**, 📸 **Photography**, 📚 **Reading**, 🎥 Film"

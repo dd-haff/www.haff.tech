@@ -5,6 +5,10 @@ intro: >-
   Combining decades of hands-on technology experience with deep expertise in organizational development and a no-nonsense human-first approach.
 
 domains:
+  - icon: "brain"
+    title: "Artificial Intelligence"
+    description: "Coaching individuals, teams, and organizations to adopt an agentic-AI-first mindset — accelerating how they build, deliver, and operate"
+
   - icon: "code"
     title: "Software Development"
     description: "Demonstrated success leading many teams building web & mobile applications as well as scalable and resilient back-end services"
@@ -16,10 +20,6 @@ domains:
   - icon: "hands-helping"
     title: "Mentoring"
     description: "Each teammate deserves the opportunity to better themselves and grow, which is a clear win-win for the employee and the company"
-
-  - icon: "brain"
-    title: "Artificial Intelligence"
-    description: "Developing experience in LLM-based solutions and ML models for engineering applications and process improvement"
 
   - icon: "tools"
     title: "Process Expertise"
