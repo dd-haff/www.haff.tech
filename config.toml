@@ -65,8 +65,6 @@ url = "https://www.linkedin.com/in/drewdenardo/"
 icon = "github"
 url = "https://github.com/dd-haff"
 
-sectionPagesMenu = 'main'
-
 
 [taxonomies]
   tag = "tags"

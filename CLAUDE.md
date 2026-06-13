@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Overview
 
-Personal website for Drew DeNardo at `www.haff.tech`. Built with Hugo and the CareerCanvas theme (a Git submodule at `themes/careercanvas/`). Tailwind CSS is compiled separately from the Hugo build. Deployed automatically to Vercel on push to `main`.
+Personal website for Drew DeNardo at `www.haff.tech`. Built with Hugo and the CareerCanvas theme (a Git submodule at `themes/careercanvas/`). Tailwind CSS is compiled separately from the Hugo build. Deployed to Firebase Hosting.
 
 This site was cloned from Felipe Cordero's personal site and is being personalized for Drew. The English `config.toml` params and static files (resume, images) have been updated, but the content markdown files (`content/en/*.md`) and the Spanish/French language configs still contain Felipe's information.
 
@@ -51,4 +51,4 @@ The contact form (Formspree) and hero background images (Pexels API) require key
 ```
 
 ### Deployment
-Vercel runs `./build.sh` (which calls `hugo --minify` after updating submodules). Set `HUGO_PARAMS_PEXELSAPIKEY` and `HUGO_PARAMS_FORMSPREEENDPOINT` as environment variables in Vercel — no underscores in the param names.
+Hosted on Firebase Hosting. The build script `./build.sh` calls `hugo --minify` after updating submodules. Set `HUGO_PARAMS_PEXELSAPIKEY` and `HUGO_PARAMS_FORMSPREEENDPOINT` as environment variables in your build environment — no underscores in the param names.
