@@ -5,6 +5,28 @@ intro: >-
   Technical expertise spanning software development, the cloud, and engineering technologies.  This section shows highlights, not an exhaustive list.
 
 technical_groups:
+  - title: "Platforms"
+    icon: "globe"
+    color_scheme: "white"
+    skills:
+      - devicon_name: "android"
+        name: "Android"
+      - devicon_name: "apple"
+        invert_on_dark: true
+        name: "iOS / iPadOS"
+      - devicon_name: "windows11"
+        name: "Windows"
+      - devicon_name: "linux"
+        name: "Linux"
+      - devicon_name: "apple"
+        invert_on_dark: true
+        name: "MacOS"
+      - icon_url: "https://cdn.simpleicons.org/anthropic"
+        invert_on_dark: true
+        name: "Claude Code"
+      - icon_url: "https://cdn.simpleicons.org/googlegemini"
+        name: "Gemini"
+
   - title: "Programming Languages"
     icon: "code"
     color_scheme: "blue"
@@ -107,20 +129,4 @@ technical_groups:
       - devicon_name: "google"
         name: "Gerrit"
 
-  - title: "Platforms"
-    icon: "globe"
-    color_scheme: "white"
-    skills:
-      - devicon_name: "android"
-        name: "Android"
-      - devicon_name: "apple"
-        invert_on_dark: true
-        name: "iOS / iPadOS"
-      - devicon_name: "windows11"
-        name: "Windows"
-      - devicon_name: "linux"
-        name: "Linux"
-      - devicon_name: "apple"
-        invert_on_dark: true
-        name: "MacOS"
 ---

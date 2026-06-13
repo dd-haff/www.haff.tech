@@ -22,7 +22,18 @@
             <div class="flex flex-wrap gap-8 justify-center">
               {{ range $group.skills }}
               <div class="flex flex-col items-center text-center">
-                {{ if .devicon_name }}
+                {{ if .icon_url }}
+                  <div class="h-16 flex items-center justify-center mb-1">
+                    <div class="w-16 h-16 rounded-md p-1.5 dark:bg-slate-700 dark:ring-1 dark:ring-slate-500 flex items-center justify-center">
+                      <img src="{{ .icon_url }}"
+                           alt="{{ .name }}"
+                           width="52"
+                           height="52"
+                           loading="lazy"
+                           class="max-h-full max-w-full {{ if .invert_on_dark }}dark:invert dark:brightness-200{{ end }}" />
+                    </div>
+                  </div>
+                {{ else if .devicon_name }}
                   {{ $style := .devicon_style | default "original" }}
                   {{ $defaultInvertOnDark := slice "nextjs" "github" "ollama" "keras" "prisma" }}
                   {{ $invertOnDark := or (.invert_on_dark) (in $defaultInvertOnDark .devicon_name) }}
@@ -39,7 +50,7 @@
                            data-fa-icon="{{ .icon }}" />
                     </div>
                   </div>
-                {{ else }}
+                {{ else if .icon }}
                   <!-- Fallback to FontAwesome with random colors -->
                   {{ $colors := slice "text-blue-500" "text-green-500" "text-purple-500" "text-red-500" "text-yellow-500" "text-indigo-500" "text-pink-500" "text-teal-500" "text-orange-500" "text-cyan-500" }}
                   {{ $randomColor := index $colors (mod (add (mul (len $colors) 7) (len .name)) (len $colors)) }}
