@@ -21,3 +21,7 @@ desktop.ini
 .hugo_build.lock
 .env.*
 config.local.toml
+
+# Firebase (project identity stays local)
+.firebaserc
+.firebase/
