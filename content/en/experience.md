@@ -17,12 +17,12 @@ positions:
     company_description: "Connected Solutions for the Office of the CFO"
     roles:
       - title: "Chief AI Officer"
-        period: "November 2026 - Present"
+        period: "October 2026 - Present"
         bullet_points:
           - "Establishing an Enterprise AI organization, a new function wholly dedicated to advancing AI across the company"
           - "Advancing insightsoftware's AI-first culture, a key pillar of The insight Way"
       - title: "VP, Enterprise Architecture"
-        period: "March 2026 - November 2026"
+        period: "March 2026 - October 2026"
         bullet_points:
           - "Collaborating with engineering, IT, and operations leaders to apply architectural patterns and cloud-native principles at enterprise scale"
           - "Growing AI capabilities across the organization to drive team impact and efficiency"
