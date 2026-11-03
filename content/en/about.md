@@ -30,7 +30,7 @@ personal: >-
 quickfacts:
   - icon: "briefcase"
     title: "Current Role"
-    value: "VP, Enterprise Architecture at <a href=\"https://www.insightsoftware.com/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>insightsoftware.com</strong></a><br>Fractional CTO at <a href=\"https://www.jogohealth.com\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Jogo Health</strong></a>"
+    value: "Chief AI Officer at <a href=\"https://www.insightsoftware.com/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>insightsoftware.com</strong></a><br>Fractional CTO at <a href=\"https://www.jogohealth.com\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Jogo Health</strong></a>"
   - icon: "graduation-cap"
     title: "Education"
     value: "<a href=\"https://lasalle.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">LaSalle University</a>, **Bachelor of Science Degree in Computer Science** (1993)"

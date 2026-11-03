@@ -11,13 +11,18 @@ resume_downloads:
 positions:
   - company: "insightsoftware.com"
     company_url: "https://www.insightsoftware.com/"
-    role: "VP, Enterprise Architecture"
+    role: "Chief AI Officer"
     industry: "Financial Software"
     location: "Raleigh, NC (Remote)"
     company_description: "Connected Solutions for the Office of the CFO"
     roles:
+      - title: "Chief AI Officer"
+        period: "November 2026 - Present"
+        bullet_points:
+          - "Establishing an Enterprise AI organization, a new function wholly dedicated to advancing AI across the company"
+          - "Advancing insightsoftware's AI-first culture, a key pillar of The insight Way"
       - title: "VP, Enterprise Architecture"
-        period: "March 2026 - Present"
+        period: "March 2026 - November 2026"
         bullet_points:
           - "Collaborating with engineering, IT, and operations leaders to apply architectural patterns and cloud-native principles at enterprise scale"
           - "Growing AI capabilities across the organization to drive team impact and efficiency"

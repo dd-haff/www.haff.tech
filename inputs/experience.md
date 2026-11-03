@@ -3,8 +3,13 @@
 ## insightsoftware
 *9 mos · Remote*
 
+### Chief AI Officer
+*Full-time · Nov 2026 – Present*
+
+Establishing an Enterprise AI organization, a new function wholly dedicated to advancing AI across the company. This reflects our deepening commitment to our AI-first culture – a key pillar of The insight Way.
+
 ### VP, Enterprise Architecture
-*Full-time · Mar 2026 – Present · 4 mos*
+*Full-time · Mar 2026 – Nov 2026 · 9 mos*
 
 Rolling up my sleeves to collaborate with engineers, IT & Ops partners, and their leaders to help teams further their impact and efficiency by applying sound architectural patterns, cloud-native engineering principles, and growing AI capabilities.
 
